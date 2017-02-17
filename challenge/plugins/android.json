@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.ypsigro.cordova.challenge"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.ypsigro.cordova.challenge"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.ypsigro.cordova.challenge"
+        },
+        "cordova-plugin-screen-orientation": {
+            "PACKAGE_NAME": "org.ypsigro.cordova.challenge"
+        },
+        "cordova-plugin-shake": {
+            "PACKAGE_NAME": "org.ypsigro.cordova.challenge"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.ypsigro.cordova.challenge"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.ypsigro.cordova.challenge"
+        }
+    }
+}
